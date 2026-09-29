@@ -1,0 +1,8 @@
+.env
+_pycache__/
+chroma_db/
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+__pycache__
