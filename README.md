@@ -231,5 +231,4 @@ blank to disable auth.
 
 ## License
 
-Provided as custom work for the client under the terms of the original
-project agreement.
+All rights reserved. This code is shared for portfolio/demonstration purposes only. No permission is granted to copy, modify, distribute, or use this code without explicit written consent from the author.
